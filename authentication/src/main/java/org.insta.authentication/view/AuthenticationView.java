@@ -55,7 +55,7 @@ public class AuthenticationView {
         int userChoice = 0;
 
         try {
-            LOGGER.error("Press 1 - create new account \nPress 2 - login\nPress 3 - exit");
+            LOGGER.info("Press 1 - create new account \nPress 2 - login\nPress 3 - exit");
             userChoice = Integer.parseInt(scanner.nextLine());
 
         } catch (NumberFormatException exception) {

@@ -1,5 +1,6 @@
 package org.insta.main;
 
+import org.apache.logging.log4j.core.config.plugins.convert.TypeConverters;
 import org.insta.authentication.view.AuthenticationView;
 import org.insta.content.view.home.HomeView;
 
@@ -12,7 +13,7 @@ import org.insta.content.view.home.HomeView;
  * @version 1.82 6 Feb 2024
  */
 public class Main {
-    private static final AuthenticationView authenticationView = AuthenticationView.getInstance();
+    private static final AuthenticationView AUTHENTICATION_VIEW = AuthenticationView.getInstance();
 
     /**
      * <p>
@@ -20,7 +21,7 @@ public class Main {
      * </p>
      */
     public static void main(String[] args) {
-        authenticationView.setHomePage(HomeView.getInstance());
-        authenticationView.authentication();
+        AUTHENTICATION_VIEW.setHomePage(HomeView.getInstance());
+        AUTHENTICATION_VIEW.authentication();
     }
 }

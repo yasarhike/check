@@ -12860,3 +12860,922 @@ Pres 3 - Login via name
 Press 2 - Reels
 Press 3 - Profile
 Press 4 - Logout
+[ERROR] 2024-03-27 14:00:18.723 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[ERROR] 2024-03-27 14:00:53.690 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[ERROR] 2024-03-27 14:01:02.037 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[ERROR] 2024-03-27 14:01:38.696 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[ERROR] 2024-03-27 14:03:18.500 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[ERROR] 2024-03-27 14:08:22.554 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[INFO ] 2024-03-27 14:32:46.165 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[INFO ] 2024-03-27 14:45:57.206 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[INFO ] 2024-03-27 14:46:00.392 [main] UserAccountView - Press 1 - Login via mobile 
+Press 2 - Login via email
+Pres 3 - Login via name
+[INFO ] 2024-03-27 14:46:01.931 [main] UserAccountView - Enter the emailOrMobileOrUserName
+[INFO ] 2024-03-27 14:46:08.472 [main] UserAccountView - Enter the password :
+[INFO ] 2024-03-27 14:46:14.150 [main] HomeView - Press 1 - Upload
+Press 2 - Reels
+Press 3 - Profile
+Press 4 - Logout
+[INFO ] 2024-03-27 14:46:20.447 [main] ReelsFeedView - 
+Reel id 1 
+Author :  kennam 
+Caption :  i am good 
+Duration :  52.36 
+TimeStamp :  2024-02-27 18:41:14.376342 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.448 [main] ReelsFeedView - 
+Reel id 2 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:17.672742 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.448 [main] ReelsFeedView - 
+Reel id 3 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:19.117931 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.448 [main] ReelsFeedView - 
+Reel id 4 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:20.245189 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.449 [main] ReelsFeedView - 
+Reel id 5 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.000589 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.449 [main] ReelsFeedView - 
+Reel id 6 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.612011 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.450 [main] ReelsFeedView - 
+Reel id 7 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.271673 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:46:20.450 [main] ReelsFeedView - 
+Reel id 8 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.886468 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.451 [main] ReelsFeedView - 
+Reel id 9 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:23.498724 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.451 [main] ReelsFeedView - 
+Reel id 10 
+Author :  kamal hassan sruthi 
+Caption :  none 
+Duration :  44.65 
+TimeStamp :  2024-02-29 13:03:33.513653 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:46:20.451 [main] ReelsFeedView - 
+Reel id 11 
+Author :  kamal hassan sruthi 
+Caption :  living the life 
+Duration :  52.36 
+TimeStamp :  2024-03-07 15:35:49.85639 
+TotalLikes :  1 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.451 [main] ReelsFeedView - 
+Reel id 17 
+Author :  kennam 
+Caption :  i am lucky 
+Duration :  85.30 
+TimeStamp :  2024-03-10 22:41:13.30363 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.452 [main] ReelsFeedView - 
+Reel id 18 
+Author :  kennam 
+Caption :  fsddadf 
+Duration :  asdfasd 
+TimeStamp :  2024-03-10 22:44:37.826821 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.452 [main] ReelsFeedView - 
+Reel id 19 
+Author :  kennam 
+Caption :  jnkbh 
+Duration :  ojbk 
+TimeStamp :  2024-03-10 22:47:08.673952 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  3 
+
+[INFO ] 2024-03-27 14:46:20.452 [main] ReelsFeedView - 
+Reel id 20 
+Author :  kennam 
+Caption :  ibk 
+Duration :  obbl 
+TimeStamp :  2024-03-10 22:48:54.772583 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.452 [main] ReelsFeedView - 
+Reel id 21 
+Author :  kennam 
+Caption :  i am happy 
+Duration :  00.30 
+TimeStamp :  2024-03-10 22:50:33.49442 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.453 [main] ReelsFeedView - 
+Reel id 22 
+Author :  kennam 
+Caption :  australia won the match 
+Duration :  10.30 
+TimeStamp :  2024-03-10 23:06:33.751088 
+TotalLikes :  1 
+TotalComments :  2 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:46:20.453 [main] ReelsFeedView - 
+Reel id 23 
+Author :  kennam 
+Caption :  aofn 
+Duration :  asdf 
+TimeStamp :  2024-03-10 23:12:40.135342 
+TotalLikes :  2 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:20.453 [main] ReelsFeedView - 
+Reel id 24 
+Author :  kennam 
+Caption :  fa 
+Duration :  sdaf 
+TimeStamp :  2024-03-10 23:13:52.238716 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  6 
+
+[INFO ] 2024-03-27 14:46:20.453 [main] ReelsFeedView - 
+Reel id 26 
+Author :  maharaja 
+Caption :  i am king 
+Duration :  52.30 
+TimeStamp :  2024-03-22 15:40:43.035184 
+TotalLikes :  1 
+TotalComments :  2 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:46:20.454 [main] ReelsFeedView - 
+Reel id 27 
+Author :  maharaja 
+Caption :  dsffdfd 
+Duration :  sdfsafd 
+TimeStamp :  2024-03-22 15:41:07.051961 
+TotalLikes :  2 
+TotalComments :  5 
+TotalShares :  7 
+
+[INFO ] 2024-03-27 14:46:20.454 [main] ReelsFeedView - Press 1 - Like 
+Press 2 - Comment 
+Press 3 - Share
+Press 4 - back
+[INFO ] 2024-03-27 14:46:26.353 [main] ReelLikeView - Enter the reel id : 
+[INFO ] 2024-03-27 14:46:28.073 [main] ReelsFeedView - 
+Reel id 1 
+Author :  kennam 
+Caption :  i am good 
+Duration :  52.36 
+TimeStamp :  2024-02-27 18:41:14.376342 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.074 [main] ReelsFeedView - 
+Reel id 2 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:17.672742 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.075 [main] ReelsFeedView - 
+Reel id 3 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:19.117931 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.075 [main] ReelsFeedView - 
+Reel id 4 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:20.245189 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.076 [main] ReelsFeedView - 
+Reel id 5 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.000589 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.076 [main] ReelsFeedView - 
+Reel id 6 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.612011 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.077 [main] ReelsFeedView - 
+Reel id 7 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.271673 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:46:28.078 [main] ReelsFeedView - 
+Reel id 8 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.886468 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.078 [main] ReelsFeedView - 
+Reel id 9 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:23.498724 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.079 [main] ReelsFeedView - 
+Reel id 10 
+Author :  kamal hassan sruthi 
+Caption :  none 
+Duration :  44.65 
+TimeStamp :  2024-02-29 13:03:33.513653 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:46:28.079 [main] ReelsFeedView - 
+Reel id 11 
+Author :  kamal hassan sruthi 
+Caption :  living the life 
+Duration :  52.36 
+TimeStamp :  2024-03-07 15:35:49.85639 
+TotalLikes :  1 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.079 [main] ReelsFeedView - 
+Reel id 17 
+Author :  kennam 
+Caption :  i am lucky 
+Duration :  85.30 
+TimeStamp :  2024-03-10 22:41:13.30363 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.079 [main] ReelsFeedView - 
+Reel id 18 
+Author :  kennam 
+Caption :  fsddadf 
+Duration :  asdfasd 
+TimeStamp :  2024-03-10 22:44:37.826821 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.080 [main] ReelsFeedView - 
+Reel id 19 
+Author :  kennam 
+Caption :  jnkbh 
+Duration :  ojbk 
+TimeStamp :  2024-03-10 22:47:08.673952 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  3 
+
+[INFO ] 2024-03-27 14:46:28.080 [main] ReelsFeedView - 
+Reel id 20 
+Author :  kennam 
+Caption :  ibk 
+Duration :  obbl 
+TimeStamp :  2024-03-10 22:48:54.772583 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.080 [main] ReelsFeedView - 
+Reel id 21 
+Author :  kennam 
+Caption :  i am happy 
+Duration :  00.30 
+TimeStamp :  2024-03-10 22:50:33.49442 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.081 [main] ReelsFeedView - 
+Reel id 22 
+Author :  kennam 
+Caption :  australia won the match 
+Duration :  10.30 
+TimeStamp :  2024-03-10 23:06:33.751088 
+TotalLikes :  1 
+TotalComments :  2 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:46:28.081 [main] ReelsFeedView - 
+Reel id 23 
+Author :  kennam 
+Caption :  aofn 
+Duration :  asdf 
+TimeStamp :  2024-03-10 23:12:40.135342 
+TotalLikes :  2 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:28.081 [main] ReelsFeedView - 
+Reel id 24 
+Author :  kennam 
+Caption :  fa 
+Duration :  sdaf 
+TimeStamp :  2024-03-10 23:13:52.238716 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  6 
+
+[INFO ] 2024-03-27 14:46:28.081 [main] ReelsFeedView - 
+Reel id 26 
+Author :  maharaja 
+Caption :  i am king 
+Duration :  52.30 
+TimeStamp :  2024-03-22 15:40:43.035184 
+TotalLikes :  1 
+TotalComments :  2 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:46:28.082 [main] ReelsFeedView - 
+Reel id 27 
+Author :  maharaja 
+Caption :  dsffdfd 
+Duration :  sdfsafd 
+TimeStamp :  2024-03-22 15:41:07.051961 
+TotalLikes :  3 
+TotalComments :  5 
+TotalShares :  7 
+
+[INFO ] 2024-03-27 14:46:28.083 [main] ReelsFeedView - Press 1 - Like 
+Press 2 - Comment 
+Press 3 - Share
+Press 4 - back
+[INFO ] 2024-03-27 14:46:34.390 [main] ReelLikeView - Enter the reel id : 
+[INFO ] 2024-03-27 14:46:36.886 [main] ReelLikeView - Enter the reel id : 
+[INFO ] 2024-03-27 14:46:42.245 [main] ReelsFeedView - 
+Reel id 1 
+Author :  kennam 
+Caption :  i am good 
+Duration :  52.36 
+TimeStamp :  2024-02-27 18:41:14.376342 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.247 [main] ReelsFeedView - 
+Reel id 2 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:17.672742 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.248 [main] ReelsFeedView - 
+Reel id 3 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:19.117931 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.249 [main] ReelsFeedView - 
+Reel id 4 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:20.245189 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.250 [main] ReelsFeedView - 
+Reel id 5 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.000589 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.251 [main] ReelsFeedView - 
+Reel id 6 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.612011 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.252 [main] ReelsFeedView - 
+Reel id 7 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.271673 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:46:42.252 [main] ReelsFeedView - 
+Reel id 8 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.886468 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.253 [main] ReelsFeedView - 
+Reel id 9 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:23.498724 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.253 [main] ReelsFeedView - 
+Reel id 10 
+Author :  kamal hassan sruthi 
+Caption :  none 
+Duration :  44.65 
+TimeStamp :  2024-02-29 13:03:33.513653 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:46:42.253 [main] ReelsFeedView - 
+Reel id 11 
+Author :  kamal hassan sruthi 
+Caption :  living the life 
+Duration :  52.36 
+TimeStamp :  2024-03-07 15:35:49.85639 
+TotalLikes :  1 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.254 [main] ReelsFeedView - 
+Reel id 17 
+Author :  kennam 
+Caption :  i am lucky 
+Duration :  85.30 
+TimeStamp :  2024-03-10 22:41:13.30363 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.254 [main] ReelsFeedView - 
+Reel id 18 
+Author :  kennam 
+Caption :  fsddadf 
+Duration :  asdfasd 
+TimeStamp :  2024-03-10 22:44:37.826821 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.254 [main] ReelsFeedView - 
+Reel id 19 
+Author :  kennam 
+Caption :  jnkbh 
+Duration :  ojbk 
+TimeStamp :  2024-03-10 22:47:08.673952 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  3 
+
+[INFO ] 2024-03-27 14:46:42.254 [main] ReelsFeedView - 
+Reel id 20 
+Author :  kennam 
+Caption :  ibk 
+Duration :  obbl 
+TimeStamp :  2024-03-10 22:48:54.772583 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.255 [main] ReelsFeedView - 
+Reel id 21 
+Author :  kennam 
+Caption :  i am happy 
+Duration :  00.30 
+TimeStamp :  2024-03-10 22:50:33.49442 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.255 [main] ReelsFeedView - 
+Reel id 22 
+Author :  kennam 
+Caption :  australia won the match 
+Duration :  10.30 
+TimeStamp :  2024-03-10 23:06:33.751088 
+TotalLikes :  1 
+TotalComments :  2 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:46:42.255 [main] ReelsFeedView - 
+Reel id 23 
+Author :  kennam 
+Caption :  aofn 
+Duration :  asdf 
+TimeStamp :  2024-03-10 23:12:40.135342 
+TotalLikes :  2 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:46:42.256 [main] ReelsFeedView - 
+Reel id 24 
+Author :  kennam 
+Caption :  fa 
+Duration :  sdaf 
+TimeStamp :  2024-03-10 23:13:52.238716 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  6 
+
+[INFO ] 2024-03-27 14:46:42.256 [main] ReelsFeedView - 
+Reel id 26 
+Author :  maharaja 
+Caption :  i am king 
+Duration :  52.30 
+TimeStamp :  2024-03-22 15:40:43.035184 
+TotalLikes :  2 
+TotalComments :  2 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:46:42.256 [main] ReelsFeedView - 
+Reel id 27 
+Author :  maharaja 
+Caption :  dsffdfd 
+Duration :  sdfsafd 
+TimeStamp :  2024-03-22 15:41:07.051961 
+TotalLikes :  3 
+TotalComments :  5 
+TotalShares :  7 
+
+[INFO ] 2024-03-27 14:46:42.257 [main] ReelsFeedView - Press 1 - Like 
+Press 2 - Comment 
+Press 3 - Share
+Press 4 - back
+[INFO ] 2024-03-27 14:50:36.258 [main] AuthenticationView - Press 1 - create new account 
+Press 2 - login
+Press 3 - exit
+[INFO ] 2024-03-27 14:50:43.502 [main] UserAccountView - Press 1 - Login via mobile 
+Press 2 - Login via email
+Pres 3 - Login via name
+[INFO ] 2024-03-27 14:50:44.940 [main] UserAccountView - Enter the emailOrMobileOrUserName
+[INFO ] 2024-03-27 14:50:48.309 [main] UserAccountView - Enter the password :
+[INFO ] 2024-03-27 14:50:51.828 [main] HomeView - Press 1 - Upload
+Press 2 - Reels
+Press 3 - Profile
+Press 4 - Logout
+[INFO ] 2024-03-27 14:50:55.139 [main] ReelsFeedView - 
+Reel id 1 
+Author :  kennam 
+Caption :  i am good 
+Duration :  52.36 
+TimeStamp :  2024-02-27 18:41:14.376342 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.139 [main] ReelsFeedView - 
+Reel id 2 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:17.672742 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.140 [main] ReelsFeedView - 
+Reel id 3 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:19.117931 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.140 [main] ReelsFeedView - 
+Reel id 4 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:20.245189 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.140 [main] ReelsFeedView - 
+Reel id 5 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.000589 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.140 [main] ReelsFeedView - 
+Reel id 6 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:21.612011 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.140 [main] ReelsFeedView - 
+Reel id 7 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.271673 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:50:55.141 [main] ReelsFeedView - 
+Reel id 8 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:22.886468 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.141 [main] ReelsFeedView - 
+Reel id 9 
+Author :  kennam 
+Caption :  ia am bad 
+Duration :  98.45 
+TimeStamp :  2024-02-28 18:53:23.498724 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.141 [main] ReelsFeedView - 
+Reel id 10 
+Author :  kamal hassan sruthi 
+Caption :  none 
+Duration :  44.65 
+TimeStamp :  2024-02-29 13:03:33.513653 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:50:55.142 [main] ReelsFeedView - 
+Reel id 11 
+Author :  kamal hassan sruthi 
+Caption :  living the life 
+Duration :  52.36 
+TimeStamp :  2024-03-07 15:35:49.85639 
+TotalLikes :  1 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.142 [main] ReelsFeedView - 
+Reel id 17 
+Author :  kennam 
+Caption :  i am lucky 
+Duration :  85.30 
+TimeStamp :  2024-03-10 22:41:13.30363 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.143 [main] ReelsFeedView - 
+Reel id 18 
+Author :  kennam 
+Caption :  fsddadf 
+Duration :  asdfasd 
+TimeStamp :  2024-03-10 22:44:37.826821 
+TotalLikes :  0 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.143 [main] ReelsFeedView - 
+Reel id 19 
+Author :  kennam 
+Caption :  jnkbh 
+Duration :  ojbk 
+TimeStamp :  2024-03-10 22:47:08.673952 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  3 
+
+[INFO ] 2024-03-27 14:50:55.143 [main] ReelsFeedView - 
+Reel id 20 
+Author :  kennam 
+Caption :  ibk 
+Duration :  obbl 
+TimeStamp :  2024-03-10 22:48:54.772583 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.143 [main] ReelsFeedView - 
+Reel id 21 
+Author :  kennam 
+Caption :  i am happy 
+Duration :  00.30 
+TimeStamp :  2024-03-10 22:50:33.49442 
+TotalLikes :  1 
+TotalComments :  0 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.143 [main] ReelsFeedView - 
+Reel id 22 
+Author :  kennam 
+Caption :  australia won the match 
+Duration :  10.30 
+TimeStamp :  2024-03-10 23:06:33.751088 
+TotalLikes :  1 
+TotalComments :  2 
+TotalShares :  1 
+
+[INFO ] 2024-03-27 14:50:55.144 [main] ReelsFeedView - 
+Reel id 23 
+Author :  kennam 
+Caption :  aofn 
+Duration :  asdf 
+TimeStamp :  2024-03-10 23:12:40.135342 
+TotalLikes :  2 
+TotalComments :  1 
+TotalShares :  0 
+
+[INFO ] 2024-03-27 14:50:55.144 [main] ReelsFeedView - 
+Reel id 24 
+Author :  kennam 
+Caption :  fa 
+Duration :  sdaf 
+TimeStamp :  2024-03-10 23:13:52.238716 
+TotalLikes :  3 
+TotalComments :  0 
+TotalShares :  6 
+
+[INFO ] 2024-03-27 14:50:55.144 [main] ReelsFeedView - 
+Reel id 26 
+Author :  maharaja 
+Caption :  i am king 
+Duration :  52.30 
+TimeStamp :  2024-03-22 15:40:43.035184 
+TotalLikes :  2 
+TotalComments :  2 
+TotalShares :  2 
+
+[INFO ] 2024-03-27 14:50:55.144 [main] ReelsFeedView - 
+Reel id 27 
+Author :  maharaja 
+Caption :  dsffdfd 
+Duration :  sdfsafd 
+TimeStamp :  2024-03-22 15:41:07.051961 
+TotalLikes :  3 
+TotalComments :  5 
+TotalShares :  7 
+
+[INFO ] 2024-03-27 14:50:55.145 [main] ReelsFeedView - Press 1 - Like 
+Press 2 - Comment 
+Press 3 - Share
+Press 4 - back
+[INFO ] 2024-03-27 14:50:58.740 [main] HomeView - Press 1 - Upload
+Press 2 - Reels
+Press 3 - Profile
+Press 4 - Logout
+[INFO ] 2024-03-27 14:51:06.918 [main] ProfileManager - Press 1 - Edit profile  
+Press 2 - View post 
+Press 3 - View reels 
+Press 4 - View story 
+Press 5 - back
+[WARN ] 2024-03-27 14:51:09.564 [main] PostView - No post available
+[INFO ] 2024-03-27 14:51:09.564 [main] ProfileManager - Press 1 - Edit profile  
+Press 2 - View post 
+Press 3 - View reels 
+Press 4 - View story 
+Press 5 - back
